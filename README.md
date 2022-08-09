@@ -1,4 +1,4 @@
-# Olá, me chamo Marley Abe
+# Olá, meu nome é Marley Abe
 
 Tenho 19 anos, estudo programação desde os 16 anos. Atualmente estou desenvolvendo para a web, com maior foco em back-end. Estou no primeiro semestre da faculdade ciência de dados pelo Iesb.
 
